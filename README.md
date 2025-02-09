@@ -12,7 +12,7 @@ RAG Based LLM AI Chatbot Built using Open Source Stack ( BGE Embeddings, and Qdr
 - **🤖 Chatbot Interface**: Interact with your documents using a smart chatbot that leverages the created embeddings.
 - **📧 Contact**: Get in touch with the developer or contribute to the project on GitHub.
 - **🌟 User-Friendly Interface**: Enjoy a sleek and intuitive UI with emojis and responsive design for enhanced user experience.
-- **
+- **Model Of your choice**: just download any models you want using "ollama pull model_name" and that model shows up in the lost for you to use
 
 ## 🖥️ Tech Stack
 
